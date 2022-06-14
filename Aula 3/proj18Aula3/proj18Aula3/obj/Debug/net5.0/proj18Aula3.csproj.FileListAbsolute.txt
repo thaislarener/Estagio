@@ -1,0 +1,15 @@
+C:\Users\thaisla.romeiro\source\repos\proj18Aula3\proj18Aula3\bin\Debug\net5.0\proj18Aula3.exe
+C:\Users\thaisla.romeiro\source\repos\proj18Aula3\proj18Aula3\bin\Debug\net5.0\proj18Aula3.deps.json
+C:\Users\thaisla.romeiro\source\repos\proj18Aula3\proj18Aula3\bin\Debug\net5.0\proj18Aula3.runtimeconfig.json
+C:\Users\thaisla.romeiro\source\repos\proj18Aula3\proj18Aula3\bin\Debug\net5.0\proj18Aula3.runtimeconfig.dev.json
+C:\Users\thaisla.romeiro\source\repos\proj18Aula3\proj18Aula3\bin\Debug\net5.0\proj18Aula3.dll
+C:\Users\thaisla.romeiro\source\repos\proj18Aula3\proj18Aula3\bin\Debug\net5.0\ref\proj18Aula3.dll
+C:\Users\thaisla.romeiro\source\repos\proj18Aula3\proj18Aula3\bin\Debug\net5.0\proj18Aula3.pdb
+C:\Users\thaisla.romeiro\source\repos\proj18Aula3\proj18Aula3\obj\Debug\net5.0\proj18Aula3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thaisla.romeiro\source\repos\proj18Aula3\proj18Aula3\obj\Debug\net5.0\proj18Aula3.AssemblyInfoInputs.cache
+C:\Users\thaisla.romeiro\source\repos\proj18Aula3\proj18Aula3\obj\Debug\net5.0\proj18Aula3.AssemblyInfo.cs
+C:\Users\thaisla.romeiro\source\repos\proj18Aula3\proj18Aula3\obj\Debug\net5.0\proj18Aula3.csproj.CoreCompileInputs.cache
+C:\Users\thaisla.romeiro\source\repos\proj18Aula3\proj18Aula3\obj\Debug\net5.0\proj18Aula3.dll
+C:\Users\thaisla.romeiro\source\repos\proj18Aula3\proj18Aula3\obj\Debug\net5.0\ref\proj18Aula3.dll
+C:\Users\thaisla.romeiro\source\repos\proj18Aula3\proj18Aula3\obj\Debug\net5.0\proj18Aula3.pdb
+C:\Users\thaisla.romeiro\source\repos\proj18Aula3\proj18Aula3\obj\Debug\net5.0\proj18Aula3.genruntimeconfig.cache

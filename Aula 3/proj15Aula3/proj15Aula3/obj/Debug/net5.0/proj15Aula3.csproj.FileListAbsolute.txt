@@ -1,0 +1,16 @@
+C:\DevTurma2\proj15Aula3\proj15Aula3\obj\Debug\net5.0\proj15Aula3.csproj.AssemblyReference.cache
+C:\DevTurma2\proj15Aula3\proj15Aula3\obj\Debug\net5.0\proj15Aula3.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevTurma2\proj15Aula3\proj15Aula3\obj\Debug\net5.0\proj15Aula3.AssemblyInfoInputs.cache
+C:\DevTurma2\proj15Aula3\proj15Aula3\obj\Debug\net5.0\proj15Aula3.AssemblyInfo.cs
+C:\DevTurma2\proj15Aula3\proj15Aula3\obj\Debug\net5.0\proj15Aula3.csproj.CoreCompileInputs.cache
+C:\DevTurma2\proj15Aula3\proj15Aula3\bin\Debug\net5.0\proj15Aula3.exe
+C:\DevTurma2\proj15Aula3\proj15Aula3\bin\Debug\net5.0\proj15Aula3.deps.json
+C:\DevTurma2\proj15Aula3\proj15Aula3\bin\Debug\net5.0\proj15Aula3.runtimeconfig.json
+C:\DevTurma2\proj15Aula3\proj15Aula3\bin\Debug\net5.0\proj15Aula3.runtimeconfig.dev.json
+C:\DevTurma2\proj15Aula3\proj15Aula3\bin\Debug\net5.0\proj15Aula3.dll
+C:\DevTurma2\proj15Aula3\proj15Aula3\bin\Debug\net5.0\ref\proj15Aula3.dll
+C:\DevTurma2\proj15Aula3\proj15Aula3\bin\Debug\net5.0\proj15Aula3.pdb
+C:\DevTurma2\proj15Aula3\proj15Aula3\obj\Debug\net5.0\proj15Aula3.dll
+C:\DevTurma2\proj15Aula3\proj15Aula3\obj\Debug\net5.0\ref\proj15Aula3.dll
+C:\DevTurma2\proj15Aula3\proj15Aula3\obj\Debug\net5.0\proj15Aula3.pdb
+C:\DevTurma2\proj15Aula3\proj15Aula3\obj\Debug\net5.0\proj15Aula3.genruntimeconfig.cache
